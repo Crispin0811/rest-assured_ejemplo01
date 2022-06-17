@@ -38,7 +38,7 @@ public class ejemplo {
 
         //ACTUALIZANDO EL LUGAR
 
-        System.out.println("==============ACTUALIZANDO PLACE================");
+        System.out.println("==============ACTUALIZANDO PLACES DESDE GIT HUB================");
 
         String responsePut = given()
                 .queryParam("key", "qaclick123")
